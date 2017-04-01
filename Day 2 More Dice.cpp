@@ -6,9 +6,9 @@ In this challenge, we practice calculating probability. We recommend you review 
 
 Task
 In a single toss of  fair (evenly-weighted) six-sided dice, find the probability that the values rolled by each die will be different and the two dice have a sum of .
-1 / 9  [ Right ]
-1 / 6
-2 / 3
- 5 / 6
+i. 1 / 9  [ Right ]
+ii. 1 / 6
+iii. 2 / 3
+iv. 5 / 6
 
 */
