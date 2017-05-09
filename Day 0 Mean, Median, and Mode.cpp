@@ -36,7 +36,7 @@ int main()
     int N,cnt=0;
     double sum=0,mean=0,median=0,mode=0,sum1=0;
     cin>>N;
-    for(int i=0; i<N; i++)
+    for(int i=0; i<N; i++) 
     {
         cin>>arr[i];
         sum+=arr[i];
